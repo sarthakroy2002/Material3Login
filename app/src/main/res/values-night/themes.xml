@@ -1,0 +1,8 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Material3Login" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Material3Login" parent="Base.Theme.Material3Login" />
+</resources>
